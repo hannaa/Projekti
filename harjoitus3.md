@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 Kuinka sisätilapaikannusta voisi hyödyntää Metropolian Leppävaaran kampuksella?
 	- Vapaiden lähellä olevien luokkien löytämiseen
+	- ruokalan ruuhka selville
 	- Opiskelijoiden läsnäolon varmistamiseen
 
 Mitkä ovat järjestelmän keskeiset käyttötapaukset? Mille käyttäjäryhmälle?
@@ -9,7 +10,8 @@ Mitkä ovat järjestelmän keskeiset käyttötapaukset? Mille käyttäjäryhmälle?
 	- Opettajille, näkevät suoraan opiskelijoiden läsnäolon ilman erillistä kyselyä
 
 Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy.
-	- Kartta, luokkanumerot, vapaanaoloaika, väri kuvaa vapautumista
+	- Kartta, luokkanumerot, vapaanaoloaika, väri kuvaa vapautumista 
+		oppilaat ja opettajat saavat selville esimerkiksi vapaat tilat, ja sen missä luokassa tunti(lukujärjestys linkitetty?)
 	- Opiskelijan nimi, opiskelijanumero, läsnäololistaus
 =======
     Kuinka sisätilapaikannusta voisi hyödyntää Metropolian Leppävaaran kampuksella?
